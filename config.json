@@ -1,15 +1,15 @@
 {
   "ownerNumber": "62855xxxx@s.whatsapp.net",
   "botName": "BABYBOT V5",
-  "ownerName": "Ramlan ID",
-  "footer": "*2022 © BABYBOT*",
-  "apikey": "APIKEY",
+  "ownerName": "Aulia",
+  "footer": "*2022 © KingBotz🜲ッ*",
+  "apikey": "'https://zenzapis.xyz': 'BagasPrdn'",
   "pathThumb": "./media/logo.jpg",
-  "sessionName": "ramlanid",
+  "sessionName": "KingBotz🜲ッ",
   "limitCount": 30,
   "gamewaktu": 60,
   "gcount": {
-    "prem": 50,
+    "prem": 9999999,
     "user": 20
   }
 }
